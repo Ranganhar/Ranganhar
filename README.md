@@ -1,6 +1,6 @@
 ### 👋 Introduction
 
-Hi guys, I'm **Guo Runhang**. I am a junior undergraduate student from the University of Electronic Science and Technology majoring in software engineering.
+Hi guys, I'm **Runhang Guo**. I am a junior undergraduate student from the University of Electronic Science and Technology majoring in software engineering.
 I am currently doing a research internship at CYCLE LAB, Hunan University.
 I am interested in **polyhedral compilation** and **high-level synthesis(HLS)**.
 ### 📫 Contact Me on Social Media
@@ -9,7 +9,7 @@ I am interested in **polyhedral compilation** and **high-level synthesis(HLS)**.
 
 ### 💡 Projects with My Work
 
-- [**miniC-compiler**]([https://75.team](https://github.com/lyh552506/miniC-compiler)): A simple RISCV compilation for a subset of the C language.
+- [**miniC-compiler**]([https://75.team](https://github.com/lyh552506/miniC-compiler)): A simple RISC-V compiler for a subset of the C language.
 
 ### 💻 Open Source Work Stats
 
