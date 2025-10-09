@@ -11,11 +11,6 @@ I am interested in **polyhedral compilation** and **high-level synthesis(HLS)**.
 
 - [**miniC-compiler**]([https://75.team](https://github.com/lyh552506/miniC-compiler)): A simple RISC-V compiler for a subset of the C language.
 
-### 💻 Open Source Work Stats
-
-
-![Ranganhar's Github stats](https://github-readme-stats.vercel.app/api?username=ranganhar&show_icons=true)
-
 ---
 ⭐️ From [Ranganhar](https://github.com/Ranganhar)
 <!--
