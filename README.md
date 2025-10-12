@@ -1,7 +1,7 @@
 ### 👋 Introduction
 
 Hi guys, I'm **Runhang Guo**. I am a junior undergraduate student from the University of Electronic Science and Technology majoring in software engineering.
-I am currently doing a research internship at CYCLE LAB, Hunan University.
+I will become a PhD student at HNU CYCLAB in 2026.
 I am interested in **polyhedral compilation** and **high-level synthesis(HLS)**.
 ### 📫 Contact Me on Social Media
 
