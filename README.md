@@ -2,7 +2,7 @@
 
 Hi guys, I'm **Runhang Guo**. I am a junior undergraduate student from the University of Electronic Science and Technology majoring in software engineering.
 I will become a PhD student at HNU CYCLAB in 2026.
-I am interested in **polyhedral compilation** and **high-level synthesis(HLS)**.
+I am interested in **polyhedral compilation** and **High-Performance Computing**.
 ### 📫 Contact Me on Social Media
 
 [Zhihu](https://www.zhihu.com/people/ranganhar) or just ✉️ [Email](top.ranganhar@gmail.com) | 💬 [Issue](https://github.com/lizheming/lizheming/issues/me) Me about everything!
